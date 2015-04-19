@@ -7,5 +7,6 @@ h1 {
 }
 p {
 	color:gray;
-	font-family: verdana, courier, monospace 
+	font-family: verdana, courier, monospace
+	margin-left: 20px; 
 }
