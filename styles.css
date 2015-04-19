@@ -3,7 +3,9 @@ body {
 }
 h1 {
 	color:white;
+	font-family: verdana, courier, monospace 
 }
 p {
 	color:gray;
+	font-family: verdana, courier, monospace 
 }
