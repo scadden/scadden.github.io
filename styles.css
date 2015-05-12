@@ -1,11 +1,35 @@
 body {
-	background:silver;
+	background: #f6f9db
 }
 h1 {
-	color:white;
-	font-family: verdana, courier, monospace; 
+	color:#909666;
+	font-family: Tahoma, Geneva, Sans-Serif;
+	font-size: 32px;
+	text-align: center;
 }
 p {
-	color:gray;
-	font-family: verdana, courier, monospace;
+	color:black;
+	font-family: Tahoma, Geneva, Sans-Serif;
+	font-weight:normal;
+	font-size: 14px;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+#slogan {
+	color:#414239;
+	font-family: Tahoma, Geneva, Sans-Serif;
+	font-weight: normal;
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+	line-height: 100%;
+}
+ul{
+	color:black;
+	font-family: Tahoma, Geneva, Sans-Serif;
+	font-weight: normal;
+	font-size: 18px;
+	text-align: center;
+    list-style-position: inside;
 }
