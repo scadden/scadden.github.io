@@ -14,7 +14,6 @@ p {
 	font-weight: normal;
 	font-size: 18px;
 	text-align: center;
-	text-transform: uppercase;
 	margin-left: 10em;
 	margin-right: 10em;
 }
@@ -34,6 +33,5 @@ ul{
 	font-weight: normal;
 	font-size: 18px;
 	text-align: center;
-	text-transform: uppercase;
     list-style-position: inside;
 }
