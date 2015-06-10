@@ -1,37 +1,25 @@
 body {
-	background: #f6f9db
+	background-image: url("landing page.jpg");
+	background-color: #000;
+	background-repeat: auto;
+	background-size: cover;
 }
 h1 {
-	color:#909666;
-	font-family: 'Monoton', cursive;
-	font-size: 56px;
-	font-weight: normal;
+	background-color: #fff;
+	background-size: contain;
 	text-align: center;
+	margin-top: 16em;
+	margin-bottom: 16em;
+	padding-top: 3em;
+	padding-bottom: 3em;
+	padding left: 10em;
+	padding right: 10em;
+	border: 1px black solid;
 }
-p {
-	color:black;
-	font-family: 'Prata', serif;
-	font-weight: normal;
-	font-size: 18px;
-	text-align: center;
-	margin-left: 10em;
-	margin-right: 10em;
+a {
+	text-decoration: none;
+	color: #000;
 }
-#slogan {
-	color:#414239;
-	font-family: 'Arbutus', cursive;
-	font-weight: normal;
-	font-size: 24px;
-	text-align: center;
-	text-transform: uppercase;
-	font-style: italic;
-	line-height: 1.5em;
-}
-ul{
-	color:black;
-	font-family: 'Prata', serif;
-	font-weight: normal;
-	font-size: 18px;
-	text-align: center;
-    list-style-position: inside;
+a:hover {
+	color: #bbb;
 }
