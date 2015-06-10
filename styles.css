@@ -8,13 +8,15 @@ h1 {
 	background-color: #fff;
 	background-size: contain;
 	text-align: center;
-	margin-top: 16em;
+	margin-top: 13em;
 	margin-bottom: 16em;
-	padding-top: 3em;
-	padding-bottom: 3em;
+	line-height: 400%;
 	padding left: 10em;
 	padding right: 10em;
 	border: 1px black solid;
+	font-family: 'Megrim', cursive;
+	font-weight: 900;
+	font-size: 24px;
 }
 a {
 	text-decoration: none;
