@@ -179,14 +179,14 @@ footer {
 	}
 	h1 {
 		width: 100%;
-		font-size: 2em;
+		font-size: 3em;
 		text-align: center;
 		margin: 0;
 		padding: 0;
 	}
 	h2 {
 		width: 100%;
-		font-size: 1em;
+		font-size: 1.5em;
 		line-height: 1em;
 		text-align: center;
 		margin: 0;
@@ -201,7 +201,7 @@ footer {
 	}
 	.top {
 		display: block;
-		margin-left: 3em;
+		margin-left: 1em;
 		margin-right: 1em;
 		width: 75%;
 	}
