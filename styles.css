@@ -90,6 +90,7 @@ footer {
 	height: 50px;
 	line-height: 0.7em;
 	text-transform: uppercase;
+	vertical-align: center;
 	font-size: 0.7em;
 	font-weight: 900;
 }
@@ -158,10 +159,10 @@ footer {
   		background: white;
 	}
 	footer{
-		padding-top: 1em;
-		padding-bottom: 1em;
+		line-height: 1em;
 		height: 25px;
 		font-size: 1em;
+		vertical-align: center;
 	}
 }
 @media only screen and (max-width: 605px) {
@@ -211,6 +212,7 @@ footer {
 		height: 25px;
 		line-height: 0.5em;
 		font-size: 0.5em;
+		vertical-align: center;
 	}
 }
 
