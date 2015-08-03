@@ -146,6 +146,7 @@ footer {
 		height: 218px;
 		padding-top: 1em;
 		width: 30%;
+		font-size: 1em;
 	}
 	.top {
 		display: block;
@@ -153,8 +154,8 @@ footer {
 	}
 	img{
   		width: 750px;
- 		 max-width: 100%;
- 		 padding: 6px;
+ 		max-width: 100%;
+ 		padding: 6px;
   		vertical-align: center;
   		background: white;
 	}
