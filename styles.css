@@ -69,7 +69,7 @@ nav {
   position: inherit;
   width: 100%;
   padding: 0;
-  margin: 0 1em;
+  margin-left: 1em;
   float: right;
 }
 img{
@@ -90,7 +90,7 @@ footer {
 	height: 50px;
 	text-transform: uppercase;
 	padding-top: 1em;
-	padding-bottom: 0.8em;
+	padding-bottom: 0.5em;
 	font-size: 0.7em;
 	font-weight: 900;
 }
