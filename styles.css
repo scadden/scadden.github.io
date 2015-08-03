@@ -150,7 +150,9 @@ footer {
 	}
 	.top {
 		display: block;
-		margin-right: 2em;
+	}
+	.column {
+		margin-left: 1em;
 	}
 	img{
   		width: 750px;
