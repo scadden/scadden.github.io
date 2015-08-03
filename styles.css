@@ -39,7 +39,7 @@ h2 {
 	padding-left: 2em;
 	font-style: italic;
 	font-family: 'Arbutus', cursive;
-	font-size: 1em;
+	font-size: 0.8em;
 }
 
 nav {
@@ -90,7 +90,7 @@ footer {
 	height: 50px;
 	padding-bottom: 0.8em;
 	text-transform: uppercase;
-	font-size: 0.8em;
+	font-size: 0.5em;
 	font-weight: 900;
 }
 .left, .center, .right {
