@@ -39,7 +39,7 @@ h2 {
 	padding-left: 2em;
 	font-style: italic;
 	font-family: 'Arbutus', cursive;
-	font-size: 0.8em;
+	font-size: 0.5em;
 }
 
 nav {
@@ -67,17 +67,16 @@ nav {
 }
 .column {
   position: inherit;
-  width: 85%;
+  width: 100%;
   padding: 0;
-  margin-left: 5em;
-  margin-right: 5em;
+  margin: 0 1em;
   float: right;
 }
 img{
   width: 600px;
   max-width: 50%;
   padding: 6px;
-  vertical-align: center;
+  vertical-align: top;
   background: white;
 }
 h3{
