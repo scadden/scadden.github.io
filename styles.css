@@ -194,14 +194,14 @@ footer {
 	}
 	nav {
 		height: 178px;
-		padding-top: 2em;
+		padding-top: 1em;
 		padding-bottom: 0.5em;
 		width: 100%;
 		font-size: 2em;
 	}
 	.top {
 		display: block;
-		margin-left: 1.5em;
+		margin-left: 1.8em;
 		margin-right: 1em;
 		width: 75%;
 	}
@@ -209,7 +209,7 @@ footer {
 		margin-top: 1em;
 	}
 	#topper {
-		margin-top: 10em;
+		margin-top: 5em;
 	}
 	footer{
 		height: 25px;
